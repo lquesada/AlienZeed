@@ -3,4 +3,4 @@ Copyright (c) 2007, Luis Quesada Torres - https://github.com/lquesada | www.luis
 
 Includes some Doom original sound effects as placeholders. However, this game was not used comercially ever and was developed as an assignment.
 
-Both the executable and source GameMaker file are provided.
+This repository contains the source GameMaker file. Download a compiled binary for Windows at https://github.com/lquesada/AlienZeed/releases.
